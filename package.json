@@ -1,0 +1,25 @@
+{
+  "name": "gitlaus",
+  "version": "1.0.0",
+  "description": "perfect and beautiful git work tool",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurkashapov/gitlaus.git"
+  },
+  "keywords": [
+    "gitlaus"
+  ],
+  "author": "Timur Kashapov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timurkashapov/gitlaus/issues"
+  },
+  "homepage": "https://github.com/timurkashapov/gitlaus#readme"
+}
